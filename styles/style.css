@@ -179,13 +179,12 @@
   background: url('../images/feynman.png'),#f2f2f2;
   background-repeat: no-repeat;
   background-position: left bottom;
-  background-size: 867px 637px ;
+  background-size: 867px 637px;
   position: relative;
   padding-top: 100px;
 }
 
 .feynman__title{
-  margin: 0;
   width: 648px;
   margin: 0 auto;
   text-align: center;
