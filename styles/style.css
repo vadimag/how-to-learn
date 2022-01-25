@@ -228,8 +228,7 @@
   position: relative;
   overflow: hidden;
   background-color: #1f1f1f;
-  z-index: 0;
-  color: white;
+  z-index: 1;
 }
 
 .kaufman_triangle{
@@ -238,37 +237,39 @@
   position: absolute;
   top: 0px;
   right: -210px;
-  z-index: 1;
+  z-index: -1;
   background: url('../images/kaufman-triangle.svg');
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .section-title_theme_dark{
-  /* нет дополнительных параметров */
+  color: white;
 }
 
 .section-subtitle_theme_dark{
-  /* нет дополнительных параметров */
+  color: white;
 }
 
 .table_theme_dark{
+  color: white;
   position: relative;
   z-index: 2;
 }
 
 .table__cell_theme_dark {
+  color: white;
   width: 200px;
   margin-right: 0;
   margin-top: 80px;
 }
 
 .table__heading_theme_dark{
-  /* нет дополнительных параметров */
+  color: white;
 }
 
 .table__text_theme_dark{
-  /* нет дополнительных параметров */
+  color: white;
 }
 
 .footer{
