@@ -14,5 +14,6 @@
 * Оформление текстов
 * метод Фейнмана )))
 
+## Cсылка на gh-pages:
 
-https://github.com/vadimag/how-to-learn
+https://vadimag.github.io/how-to-learn/
