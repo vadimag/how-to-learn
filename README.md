@@ -13,3 +13,7 @@
 * Встраивание внешнего кода (iframe)
 * Оформление текстов
 * метод Фейнмана )))
+
+## Cсылка на gh-pages:
+
+https://vadimag.github.io/how-to-learn/
